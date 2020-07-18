@@ -1,0 +1,7 @@
+*.sqlite3
+.env
+media/
+insta_env/
+config/
+.idea/
+__pycache__/
